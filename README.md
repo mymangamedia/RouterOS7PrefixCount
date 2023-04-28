@@ -1,5 +1,5 @@
 # Mikrotik RouterOS 7 Prefix Count
-Script to generate prefix count from current connected BGP connections
+Script to generate prefix count from current connected BGP sessions
 
 
 # Usage
